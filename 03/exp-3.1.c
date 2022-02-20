@@ -1,3 +1,5 @@
+//Deletion In stack
+
 #include<stdio.h>
 void main()
 {

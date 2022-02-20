@@ -1,6 +1,6 @@
 //Implementation of insertion & deletion in Queue   
-#include <stdio.h>
 
+#include <stdio.h>
 #define MAX 50
 int queue_array[MAX];
 int rear = - 1;
